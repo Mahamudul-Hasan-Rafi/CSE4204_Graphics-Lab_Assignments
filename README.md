@@ -1,0 +1,2 @@
+# CSE4204_Graphics-Lab_Assignments
+These assignments are done on HTML canvas importing **WebGL** context. **WebGL is a JavaScript API for rendering interactive 2D and 3D graphics** within any compatible web browser without using any kind of plug-ins. **WebGL** is fully integrated with other web standards, allows GPU-accelerated usage of physics and image processing and effects as part of the web page canvas.
